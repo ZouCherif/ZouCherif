@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cherif zouaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherif zouaoui" height="30" width="40" /></a>
-<a href="https://fb.com/cherif zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cherif zou" height="30" width="40" /></a>
-<a href="https://instagram.com/cherifzou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cherifzou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Cherif ZOUAOUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherif zouaoui" height="30" width="40" /></a>
+<a href="https://fb.com/Cherif Zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cherif zou" height="30" width="40" /></a>
+<a href="https://instagram.com/cherif_zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cherifzou" height="30" width="40" /></a>
 <a href="https://discord.gg/3496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3496" height="30" width="40" /></a>
 </p>
 
