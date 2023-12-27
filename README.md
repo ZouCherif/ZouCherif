@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ZouCherif&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning MERN stack, MySQL, symfony<br><br>💬 Ask me about React, Redux, RTKQ<br><br>📫 How to reach me cheriffzouaoui@gmail.com
+🌱 I’m currently learning MERN stack, MySQL, symfony<br><br>💬 Ask me about React, Redux, RTKQ<br><br>📫 How to reach me zouaouiicherif@gmail.com
 
 
 ## 🌐 Socials:
